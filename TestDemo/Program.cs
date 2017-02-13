@@ -10,9 +10,8 @@ namespace TestDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("this is a test");
-            Console.WriteLine("");
-            Console.WriteLine("THIS IS FEATUE");
+            Console.WriteLine("this is feature分支");
+            Console.WriteLine("test");
             Console.ReadKey();
         }
     }
